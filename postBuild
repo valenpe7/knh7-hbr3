@@ -10,7 +10,7 @@ mkdir $dir/SDF/C
 tar -C $dir/SDF/C --strip-components=1 -xzf $dir/SDF/C.tar.gz
 rm -f $dir/SDF/C.tar.gz
 cd $dir/SDF/C ; make
-wget -q -O $dir/SDF/utilities.targ.gz "https://github.com/epochpic/SDF_utilities/archive/refs/tags/v2.6.15.tar.gz"
+wget -q -O $dir/SDF/utilities.tar.gz "https://github.com/epochpic/SDF_utilities/archive/refs/tags/v2.6.15.tar.gz"
 mkdir $dir/SDF/utilities
 tar -C $dir/SDF/utilities --strip-components=1 -xzf $dir/SDF/utilities.tar.gz
 rm -f $dir/SDF/utilities.tar.gz
