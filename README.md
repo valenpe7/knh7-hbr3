@@ -1,5 +1,5 @@
 [![DOI](https://zenodo.org/badge/DOI/10.1103/knh7-hbr3.svg)](https://doi.org/10.1103/knh7-hbr3)
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/valenpe7/knh7-hbr3/blob/main/data_analysis.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.org/github/valenpe7/knh7-hbr3/blob/main/data_analysis.ipynb)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/valenpe7/knh7-hbr3/main?urlpath=lab/tree/data_analysis.ipynb)
 
 # Bayesian optimization of electron energy from laser wakefield accelerators [Supplementary material]
@@ -27,7 +27,7 @@ git clone https://github.com/valenpe7/knh7-hbr3.git
 
 If you have downloaded the notebook and data and installed all required dependencies, you can run the notebook locally. If you do not have all the requirements installed, you can launch the notebook online:
 
-- **Jupyter nbviewer** (non-interactive): [https://nbviewer.jupyter.org/github/valenpe7/knh7-hbr3/blob/main/data_analysis.ipynb](https://nbviewer.jupyter.org/github/valenpe7/knh7-hbr3/blob/main/data_analysis.ipynb)
+- **Jupyter nbviewer** (non-interactive): [https://nbviewer.org/github/valenpe7/knh7-hbr3/blob/main/data_analysis.ipynb](https://nbviewer.org/github/valenpe7/knh7-hbr3/blob/main/data_analysis.ipynb)
 
 - **Binder** (interactive): [https://mybinder.org/v2/gh/valenpe7/knh7-hbr3/main?urlpath=lab/tree/data_analysis.ipynb](https://mybinder.org/v2/gh/valenpe7/knh7-hbr3/main?urlpath=lab/tree/data_analysis.ipynb)
 
